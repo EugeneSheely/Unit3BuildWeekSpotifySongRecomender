@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Base HTML</title>
+</head>
+<body>
+
+<form action="#" method="post">
+    <p>Welcome: {{user}}</p>
+
+    <p>This simple app will help you pick music based on your taste</p>
+    <p>Follow the text along while submitting your data!</p>
+
+    <p>Do you have an account saved with us?</p>
+    <p><input type="text" name="account" /></p>
+
+    <p>Login - Write your username and password and ignore the Create username and password:</p>
+    <p>Username:</p>
+    <p><input type="text" name="username" /></p>
+    <p>Password:</p>
+    <p><input type="text" name="password" /></p>
+
+    <p>Create Username and Password: </p>
+    <p>Create Username:</p>
+    <p><input type="text" name="newusername" /></p>
+    <p>Create Password:</p>
+    <p><input type="text" name="newpassword" /></p>
+
+    <p>Do you want to add a new song? y/n</p>
+    <p><input type="text" name="addnewsong" /></p>
+
+    <p>What's the artists name?</p>
+    <p><input type="text" name="searchartist" /></p>
+
+    <p>What's the songs name?</p>
+    <p><input type="text" name="searchsong" /></p>
+
+    <p>Do you want to delete a song? y/n</p>
+    <p><input type="text" name="delete" /></p>
+
+
+    <p>What's the songs name?</p>
+    <p><input type="text" name="deletesong" /></p>
+
+    <p>Want a music recommendation? y/n</p>
+    <p><input type="text" name="musicrecommendation" /></p>
+
+    <p>Name the artist you want similar songs from:</p>
+    <p><input type="text" name="musicrecommendationresults" /></p>
+
+
+
+    <p><input type="submit" value="submit" /></p>
+    <p>{{account}}</p>
+    <p>{{username}}</p>
+    <p>{{password}}</p>
+    <p>Your Favorite Songs are: </p>
+    <p>{{favorite_songs}}</p>
+    <p>{{found_artist}}</p>
+    <p>These were the songs on the artists list:</p>
+    <p>{{artists_songs_list}}</p>
+
+    <p>{{found_song}}</p>
+
+    <p>{{found_song_to_delete}}</p>
+    <p>Predicted Songs based on favorites list:</p>
+    <p>{{rec_based_on_fav_list}}</p>
+    <p>Predicted Songs based on input list:</p>
+    <p>{{rec_based_on_input_list}}</p>
+
+
+
+    <p>Predicted Songs based on :</p>
+
+
+
+    <p></p>
+    <p></p>
+    <p></p>
+
+
+
+
+
+
+
+</form>
+</body>
+</html>

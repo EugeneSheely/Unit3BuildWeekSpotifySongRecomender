@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "lambda-unit-3-data-server",
+  "private_key_id": "dd6db5f0abbccfbbff160e7881fbd3c6d597b5f5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCyF3ok72WgZoJ6\n/vqyXtEvXYaYHosgdK5eiOwaKKYLFx0VpD3tRQW5YUPW9cb3WGl2cJMLSwpH2o4G\nV8K5jWfX3sU3qugWyFiW84q9NBt74T0CouegFVg+TUEPsl2VP6lprETllUK9ExxE\n78QI16SYFWK+Sv09XqyNGtc1jwNy3HDYIDBMUamBVc1II+3WNsoM1YgEcej3V7sm\nJhST1mUaZwAbvCi0jiFIOvuYTyMGrnjFRvRBVazbIoWNY/NK3NjYLFp0NKDT+8Gi\nJzYottavB8buXVt/XJPnqesV7R8eGiv8hLr2cUu98jB1Zbz6tjcrMqcUlxOky0mS\npygBgATfAgMBAAECggEANXmMMRP7KXcuXb07TJzg5f6IwBuHvgabJwKpFk+3T+Qw\nVQO8noaXqerVQnIJPNL809YIqR7uptWuyKPIcgvOLwkSodz9FH4y75yQP7CqQf/H\nYIfG0hAmr4pl608s/3gep/7UrzUq1XgsCF0QOXF62DmvrSD6Ole3qyTwkwHu0Kl0\nuGYqpA6CUJuqupn/PKm6HWOyNTeG53SorRqjzuetjEfqxd6gY5wIROJp2kaYHJA7\nkTSzbQ19Yz0DJZ/mFoZAAIel2n4NoBNNiMudSEmo7BMgcUP61dPDvzpIy+7OANKX\n5nHAxSDD5l0NB55eERioRxB/DIvUwm08pP1wj3fXnQKBgQDo5ltEF4mdO6tRy5QN\nEnGyCISLepoEbSF6FsuaDUuUkH6o+ZX+e37RfLGvN4t6MiJfsa0RVmOMcJ/9h0jA\nyHed+kW8QG/V3hSI+I7LUtxszrafJO26+cphBJZQmTzywJ3ioY9KoNI93G0MTONF\n3/y7fQS5XibzZmW3MrErwEPqnQKBgQDDwXfD2wDn7fwVjn3+F3pBVrz0VLEGwrda\n3dzUxpfEC0H6oNiiOp2Mayzl4hayvBKXT7Z44960bKNf1j698S7nTI+dTyx0WBp+\n0Bm2xwKxj1j8l2q/T3OsAi/+3NStf6IYO3zZFDYC/0Qd1Wb2KJA2nLELyF26Ibzb\nBXY6h9smqwKBgG1tDiSICphdmLjttboOmGzVo7EFAahivf/nBfJznLdIzLoHynmu\n/H7g33s71cSsGYpsqKwkstEheYpdLcmmZs1K8cjpXaJWnb9dSXoujHJzDUroxum6\nw2OiDB4CYaiM56G71t9xgFagYnwNBBuoic5thvKxUgu6aMASiTvNMhvhAoGALNiX\nvXDgxkGJLM8WIi3yviFG7Jqya6AULWcCfmR4xFrn5KkQuCnBijfLc2bWWGApyixi\n21Mo5CC3VO9aNF2apzas+Bb5UjYU69R076CsB02Vz1hJBkcHcvKVWEfzGURSOEb4\nlSrCLPGaA1OuYNpuH3TKQq7GeivcfjjEGyiglj0CgYEAzL4/Xka33pQCo+PMz38V\nu415T+ATUvXs6qL6FggpJNAeNE+KPBSzVgXFs2a5l76aGEHFb5zPUiXHVdv0ekba\nq/ClSnbocNn890WmCCfDvyf+zTihjnUwIcd8WQEhKqwew/0XKZWQ5TIP/KFbNV9I\nFe8vx1SrT+UJWsB/6ICBkuw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "eugene@lambda-unit-3-data-server.iam.gserviceaccount.com",
+  "client_id": "114922231515142062138",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/eugene%40lambda-unit-3-data-server.iam.gserviceaccount.com"
+}
